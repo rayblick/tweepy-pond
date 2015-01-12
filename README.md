@@ -4,6 +4,8 @@ Use a Raspberry Pi to monitor a pond.
 
 ### Headless Pi and Wifi
 
+### The circuit 
+
 ### Motion detection 
 
 ### Taking a photo
