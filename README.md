@@ -1,14 +1,15 @@
-# tweepy-pond
+# Tweepy-Pond
+
 Use a Raspberry Pi to monitor a pond.
 
-## Headless Pi and Wifi
+### Headless Pi and Wifi
 
-## Motion detection 
+### Motion detection 
 
-## Taking a photo
+### Taking a photo
 
-## Monitoring air and water temperature
+### Monitoring air and water temperature
 
-## Night IR LEDS turned on in response to light
+### Night IR LEDS turned on in response to light
 
-## Tweeting the information
+### Tweeting the information
